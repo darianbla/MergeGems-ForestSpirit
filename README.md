@@ -8,6 +8,13 @@ A high-polish mobile merge prototype built in Unity, focusing on satisfying "gam
 
 ---
 
+## 🎮 How to Play
+1. **Spawn:** Tap the **SPAWN!** button to generate Tier 1 Forest Spirits on the grid.
+2. **Merge:** Drag and drop identical spirits onto each other to evolve them into higher-tier gems.
+3. **Progress:** Reach the **Level 6** goal shown at the top of the screen to unlock the next forest clearing.
+
+---
+
 ## 🚀 Technical Highlights
 
 ### **1. The "Juice" System (Animation & Feedback)**
