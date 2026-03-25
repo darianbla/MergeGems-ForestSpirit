@@ -2,6 +2,10 @@
 
 A high-polish mobile merge prototype built in Unity, focusing on satisfying "game feel" and scalable UI architecture.
 
+<p align="center">
+  <img src="Media/Merge2Gif.gif" width="350" title="Gameplay Preview">
+</p>
+
 ---
 
 ## 🚀 Technical Highlights
@@ -28,5 +32,8 @@ Instead of standard linear movements, I implemented a curve-based animation syst
 ---
 
 ## 📸 Developer Showcase
-*(Coming Soon: Insert Sizzle Reel GIF here)*
-*(Coming Soon: Insert Inspector/Animation Curve Screenshot here)*
+<p align="center">
+  <img src="Media/animation-curve-screenshot.png" width="600" title="Unity Animation Curve Setup">
+  <br>
+  <em>Example of the AnimationCurve driving the 'Spawn' and 'Merge' juice.</em>
+</p>
