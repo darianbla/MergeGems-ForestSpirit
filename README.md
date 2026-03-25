@@ -31,9 +31,33 @@ Instead of standard linear movements, I implemented a curve-based animation syst
 
 ---
 
+## 📂 Directory Structure
+
+A brief overview of the key folders in this project:
+
+```text
+/Assets
+  /Scripts
+    /Core          <-- GridManager, LevelLogic, GameStates
+    /View          <-- ItemView, AnimationController, ParticleSystems
+    /UI            <-- CanvasManagement, ButtonPulser, FloatingText
+  /Prefabs         <-- Reusable Spirit Items and UI elements
+  /Art
+    /Sprites       <-- Gem Tiers, Forest Backgrounds
+    /Animations    <-- AnimationCurves and Clip data
+
+---
+
 ## 📸 Developer Showcase
+
+### **The "Juice" in Action**
+*A look at the custom AnimationCurves driving the merge feel:*
 <p align="center">
-  <img src="Media/animation-curve-screenshot.png" width="600" title="Unity Animation Curve Setup">
-  <br>
-  <em>Example of the AnimationCurve driving the 'Spawn' and 'Merge' juice.</em>
+  <img src="images/inspector-curves.png" width="600" title="Unity Inspector Animation Curves">
+</p>
+
+### **UI Architecture**
+*Visualizing the decoupled Grid vs View relationship:*
+<p align="center">
+  <img src="images/architecture-diagram.png" width="600" title="Code Architecture Diagram">
 </p>
