@@ -3,7 +3,7 @@
 A high-polish mobile merge prototype built in Unity, focusing on satisfying "game feel" and scalable UI architecture.
 
 <p align="center">
-  <img src="Media/Merge2Gif.gif" width="350" title="Gameplay Preview">
+  <img src="Media/merge-preview.gif" width="350" title="Gameplay Preview">
 </p>
 
 ---
