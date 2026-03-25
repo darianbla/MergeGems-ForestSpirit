@@ -45,6 +45,7 @@ A brief overview of the key folders in this project:
   /Art
     /Sprites       <-- Gem Tiers, Forest Backgrounds
     /Animations    <-- AnimationCurves and Clip data
+```
 
 ---
 
