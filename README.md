@@ -53,11 +53,11 @@ A brief overview of the key folders in this project:
 ### **The "Juice" in Action**
 *A look at the custom AnimationCurves driving the merge feel:*
 <p align="center">
-  <img src="images/inspector-curves.png" width="600" title="Unity Inspector Animation Curves">
+  <img src="Media/inspector-curves.png" width="600" title="Unity Inspector Animation Curves">
 </p>
 
 ### **UI Architecture**
 *Visualizing the decoupled Grid vs View relationship:*
 <p align="center">
-  <img src="images/architecture-diagram.png" width="600" title="Code Architecture Diagram">
+  <img src="Media/architecture-diagram.png" width="600" title="Code Architecture Diagram">
 </p>
